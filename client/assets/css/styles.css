@@ -1,0 +1,26 @@
+#messages {
+  width: 95%;
+  max-width: 400px;
+  height: 350px;
+  overflow-y: scroll;
+  border: 1px solid #eee;
+
+  margin-bottom: 10px;
+}
+
+.message {
+  margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+
+form {
+  max-width: 400px;
+}
+
+input {
+  margin-bottom: 10px;
+}
