@@ -1,3 +1,3 @@
-# Xatty
+# Xatty.net
 
 In process...
